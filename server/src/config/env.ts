@@ -1,6 +1,5 @@
 import { config } from "dotenv";
 
-// Configure env file path
 config({
   path: `.env`,
   override: true,
