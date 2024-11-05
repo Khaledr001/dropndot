@@ -11,5 +11,5 @@ PORT: 6100
 ## Client side setup
 ### Add .env file in client OR change in axios config file.
 ``` 
-BACKEND_URL: 
+BACKEND_URL: "http://localhost:6100"
 ```
